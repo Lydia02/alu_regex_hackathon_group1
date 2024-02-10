@@ -2,7 +2,7 @@
 
 This Web Application leverages a custom-built API that aggregates data from numerous web pages, processing strings to extract information based on predefined Regular Expression patterns. The system is designed to recognize and parse data types such as movie titles, song lyrics, and more, making it an invaluable tool for data analysis and content aggregation.
 
-### Features
+### Features of the Web Application
 
 - **Dynamic Data Extraction**: Utilizes Regex to efficiently parse and extract varied data types from text.
 - **Customizable Patterns**: Offers the flexibility to modify and expand Regex patterns to suit evolving data extraction needs.
