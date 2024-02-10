@@ -6,7 +6,7 @@ This Web Application leverages a custom-built API that aggregates data from nume
 
 - **Dynamic Data Extraction**: Utilizes Regex to efficiently parse and extract varied data types from text.
 - **Customizable Patterns**: Offers the flexibility to modify and expand Regex patterns to suit evolving data extraction needs.
-- **Scalable Architecture**: Designed to handle large volumes of data, ensuring reliability and performance.
+- **Scalable Architecture**: Created to handle large volumes of data, ensuring reliability and performance.
 - **User-Centric Design**: Provides a straightforward interface for users to specify their data extraction requirements.
 
 ### Technical Specifications
