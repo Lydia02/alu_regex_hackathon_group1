@@ -18,7 +18,7 @@ This Web Application leverages a custom-built API that aggregates data from nume
 
 ## Getting Started
 
-This section guides you through setting up the project locally for development and testing purposes.
+This segment guides you through setting up the project locally for development and testing purposes.
 
 ### Prerequisites
 
