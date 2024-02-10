@@ -11,7 +11,7 @@ This Web Application leverages a custom-built API that aggregates data from nume
 
 ### Technical Specifications
 
-- **Languages**: JavaScript, HTML, CSS
+- **Languages**: HTML,CSS, and Javascript
 - **Frameworks/Libraries**: Node.js for backend operations (if applicable), Bootstrap for frontend styling
 - **Data Management**: JSON files for storing Regex patterns and potentially extracted data for demonstration purposes
 - **Security Measures**: Implements basic security best practices to mitigate common vulnerabilities.
