@@ -51,3 +51,13 @@ npm start
 
 - **Extracting Movie Titles**: Navigate to the Movie Titles section, enter your text data or specify a URL for data fetching, and observe the extracted titles based on the specified Regex pattern.
 - **Analyzing Song Lyrics**: Use the Song Lyrics pattern to parse through provided lyrics text, extracting verses or chorus lines as defined.
+
+## Contribution Guidelines
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions on how to propose changes, submit issues, and pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for detail
