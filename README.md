@@ -15,3 +15,39 @@ This Web Application leverages a custom-built API that aggregates data from nume
 - **Frameworks/Libraries**: Node.js for backend operations (if applicable), Bootstrap for frontend styling
 - **Data Management**: JSON files for storing Regex patterns and potentially extracted data for demonstration purposes
 - **Security Measures**: Implements basic security best practices to mitigate common vulnerabilities.
+
+## Getting Started
+
+This section guides you through setting up the project locally for development and testing purposes.
+
+### Prerequisites
+
+- Git
+- Node.js (optional, if backend functionality is extended beyond static file serving)
+- A modern web browser
+
+### Installation
+
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/yourusername/data-extraction-engine.git
+cd data-extraction-engine
+```
+
+2. **Install Dependencies** (if applicable)
+
+```bash
+npm install
+```
+3. **Run the Application**
+
+```bash
+npm start
+# or python3 -m http.server if purely static
+```
+
+### Usage Examples
+
+- **Extracting Movie Titles**: Navigate to the Movie Titles section, enter your text data or specify a URL for data fetching, and observe the extracted titles based on the specified Regex pattern.
+- **Analyzing Song Lyrics**: Use the Song Lyrics pattern to parse through provided lyrics text, extracting verses or chorus lines as defined.
