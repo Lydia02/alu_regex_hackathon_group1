@@ -12,7 +12,7 @@ This Web Application leverages a custom-built API that aggregates data from nume
 ### Technical Specifications
 
 - **Languages**: HTML,CSS, and Javascript
-- **Frameworks/Libraries**: Node.js for backend operations (if applicable), Bootstrap for frontend styling
+- **Frameworks/Libraries**: Node.js for backend operations 
 - **Data Management**: JSON files for storing Regex patterns and potentially extracted data for demonstration purposes
 - **Security Measures**: Implements basic security best practices to mitigate common vulnerabilities.
 
@@ -31,33 +31,41 @@ This segment guides you through setting up the project locally for development a
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/data-extraction-engine.git
-cd data-extraction-engine
+git clone https://github.com/Lydia02/alu_regex_hackathon_group1.git
+cd alu_regex_hackathon_group1
 ```
 
-2. **Install Dependencies** (if applicable)
-
-```bash
-npm install
-```
-3. **Run the Application**
+2. **Install Dependencies** 
 
 ```bash
-npm start
-# or python3 -m http.server if purely static
+Run live server
+node run
 ```
+
 
 ### Usage Examples
 
 - **Extracting Movie Titles**: Navigate to the Movie Titles section, enter your text data or specify a URL for data fetching, and observe the extracted titles based on the specified Regex pattern.
 - **Analyzing Song Lyrics**: Use the Song Lyrics pattern to parse through provided lyrics text, extracting verses or chorus lines as defined.
+- This can be used on all the data.
+  
 
 ## Contribution Guidelines
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions on how to propose changes, submit issues, and pull requests.
+Contributions to this project are welcome! If you have suggestions for improvements or new features, please create a pull request or open an issue on GitHub.
+
+## Authors
+
+- [Ramona](https://github.com/DevRamona)
+- [Abeasi Nana-Koramah](https://github.com/Nana-Koramah)
+- [Amelieumu Toni](https://github.com/Amelieumutoni)
+- [Lina Iratwe](https://github.com/Ms-Lina)
+- [Lydia Ojoawo](https://github.com/Lydia02)
+
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for detail
+
