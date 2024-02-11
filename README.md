@@ -2,6 +2,24 @@
 
 This Web Application leverages a custom-built API that aggregates data from numerous web pages, processing strings to extract information based on predefined Regular Expression patterns. The system is designed to recognize and parse data types such as movie titles, song lyrics, and more, making it an invaluable tool for data analysis and content aggregation.
 
+## Table of Contents
+
+- [Project Outline](#project-outline)
+  - [Features of the Web Application](#features-of-the-web-application)
+  - [Technical Specifications](#technical-specifications)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage Examples](#usage-examples)
+- [Running on a Live Server](#running-on-a-live-server)
+  - [Using Visual Studio Code Live Server](#using-visual-studio-code-live-server)
+  - [Accessing the Web Application](#accessing-the-web-application)
+- [Conclusion](#conclusion)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Authors](#authors)
+- [License](#license)
+
+
 ### Features of the Web Application
 
 - **Dynamic Data Extraction**: Utilizes Regex to efficiently parse and extract varied data types from text.
