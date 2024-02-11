@@ -86,7 +86,7 @@ async function checkFromList() {
             jokes: /Why did the .+ \? Because .+/,
             weirdlyFormattedDates: /\b\d{2}-[A-Za-z]{3}-\d{4}\b/,
             tvEpisodeTitles: /.+ S\d{2}E\d{2}: .+/,
-            songLyrics: /\[Verse \d+\] .+/g,
+            songLyrics: /\[Verse \d+\] .+/,
             ipAddress: /\b(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b/g,
             hexColorCodes: /#[0-9A-Fa-f]{6}\b/g,
 
