@@ -49,6 +49,38 @@ node run
 - **Analyzing Song Lyrics**: Use the Song Lyrics pattern to parse through provided lyrics text, extracting verses or chorus lines as defined.
 - This can be used on all the data.
   
+To include a section on how the project works on a live server, especially for those who might not be familiar with setting up local development environments or using live servers, you can add a section titled "Running on a Live Server" in your README.md. This section can guide users through starting a live server to view and interact with the project in their browser.
+
+---
+
+## Running on a Live Server
+
+After setting up the project locally, you can run it on a live server to interact with the web application in real-time. This process will serve your project files on a local web server, making it accessible through a web browser.
+
+### Using Visual Studio Code Live Server
+
+If you are using Visual Studio Code (VS Code) as your IDE, you can use the Live Server extension to quickly start a server.
+
+1. **Install Live Server Extension**:
+   - Open VS Code and navigate to the Extensions view by clicking on the square icon on the sidebar or pressing `Ctrl+Shift+X`.
+   - Search for "Live Server" and click on the install button.
+
+2. **Open the Project**:
+   - Open the project folder in VS Code by going to File > Open Folder and selecting the `alu_regex_hackathon_group1` directory.
+
+3. **Start Live Server**:
+   - Right-click on the `index.html` file in the VS Code explorer and select "Open with Live Server", or click on the "Go Live" button at the bottom right of the VS Code window.
+   - Your default web browser will open, and the project will be served from a local URL, typically `http://127.0.0.1:5500`.
+
+### Accessing the Web Application
+
+- Open your web browser and go to the URL provided by Live Server or `http-server`. You should now see the project running and can interact with the web application.
+- Navigate through the application sections to test different Regex patterns and data types as per the project's features.
+
+This setup enables real-time interaction with the project, allowing you to view changes live as you modify files or experiment with different Regular Expressions.
+
+<img width="908" alt="movie" src="https://github.com/Lydia02/alu_regex_hackathon_group1/assets/37791436/402a9ce9-21df-41de-900d-f837a753561b">
+
 
 ## Contribution Guidelines
 
