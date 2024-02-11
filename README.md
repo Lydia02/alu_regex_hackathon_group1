@@ -123,3 +123,4 @@ Contributions to this project are welcome! If you have suggestions for improveme
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for detail
 
+## Happy Coding 🎉
